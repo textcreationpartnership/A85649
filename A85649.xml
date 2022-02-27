@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Morbus epidemius anni 1643. Englands new disease most contagious at present in Oxford. With the Signes. Causes. Remedies. Published by His Majesties Command.</title>
+            <author>Greaves, Edward, Sir, 1608-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85649</idno>
+            <idno type="STC">Wing G1793</idno>
+            <idno type="STC">Thomason E79_22</idno>
+            <idno type="STC">ESTC R22040</idno>
+            <idno type="EEBO-CITATION">99871565</idno>
+            <idno type="PROQUEST">99871565</idno>
+            <idno type="VID">123977</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85649)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123977)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E79[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Morbus epidemius anni 1643. Englands new disease most contagious at present in Oxford. With the Signes. Causes. Remedies. Published by His Majesties Command.</title>
+                  <author>Greaves, Edward, Sir, 1608-1680.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, Printer to the Vniversity,</publisher>
+                  <pubPlace>Oxford [i.e. London] :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Attributed to Edward Greaves.</note>
+                  <note>Imprint is false. "A London counterfeit". -- Cf. Madan.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 29 1643".</note>
+                  <note>"Signes. Causes. Remedies." are bracketed together on title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Epidemics --  England --  Oxford --  Early works to 1800.</term>
+               <term>Oxford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123977:1" rendition="simple:additions"/>
+            <p>MORBUS EPIDEMIUS <hi>Anni</hi> 1643.</p>
+            <p>ENGLANDS New Diſeaſe moſt Contagious at preſent in <hi>Oxford.</hi>
+            </p>
+            <p>With the Signes. Cauſes. Remedies.</p>
+            <p>Publiſhed by His Majeſties Command.</p>
+            <p>OXFORD, Printed by LEONARD LICHFIELD, <hi>Printer to the Vniverſity.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:123977:2"/>
+            <pb n="1" facs="tcp:123977:2"/>
+            <head>MORBVS EPIDEMIVS Anni 1643. OR, The New Diſeaſe.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His ſo frequently tearmed, <hi>The New Diſeaſe</hi> although as ancient as <note n="a" place="margin">In Epidem.</note>
+               <hi>Hippocrates,</hi> to de<g ref="char:EOLhyphen"/>fine it with the times, is a <hi>Malignant,</hi> and <hi>contagious Feaver,</hi> being compriſed under the <hi>Genus</hi> of a <hi>putrid, continued Feaver,</hi> which proceedeth from putrefaction of <hi>bloud,</hi> or <hi>hu<g ref="char:EOLhyphen"/>mours</hi> contained in the greater veſſels. So that the diſeaſe may be truly called, <hi>Febris putrida, continua, maligna, &amp; con<g ref="char:EOLhyphen"/>tagioſa;</hi> that is, <hi>a putrid, continued Feaver, both malignant and contagious,</hi> which we ſhall endeavour to prove, firſt, <hi>Nega<g ref="char:EOLhyphen"/>tively</hi> by ſhewing that it is not the <hi>Plague,</hi> (as the Relations and hopes of our enemies, and the Feares of others have ſuggeſted) which may appeare by theſe Reaſons.</p>
+            <p>Firſt, <note n="b" place="margin">Hip. 3. E. pid. &amp; Gal. comm. 1. in Lib. de Vict. rat. in Morb. acat. text 9.</note> 
+               <hi>Pectis pleroſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ex iis, quos corripit, jugulat,</hi> of thoſe that are infected with the <hi>Plague,</hi> there alwaies dye, more then eſcape, but of this <hi>Diſeaſe,</hi> where one dies, ten at leaſt I may ſafely ſay more, recover.</p>
+            <p>Secondly, <note n="c" place="margin">Inſeparabi<g ref="char:EOLhyphen"/>le ſignum ë non proprium &amp; quod non ſoli conven it.</note>
+               <hi>Peſtis ſummè contagioſa eſt:</hi> as we may inſtance in that of the <hi>Athenians,</hi> deſcribed by the <note n="d" place="margin">
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>Thucyd. de Be<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lo. Pelo. pon. Lib. 2.</p>
+               </note> Hiſtorian, where the <hi>Phyſitians</hi> could no ſooner come to their <hi>Patients</hi> reliefe, but they themſelves were infected.—<hi>in<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ipſos ſaeva Medentes erup<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t clades.</hi> But in this many hundreds have viſited their ſick Friends without Infection; Phyſitians, Chirurgians
+<pb n="2" facs="tcp:123977:3"/>
+and Apothecaries, who have been daily converſant with them, not any way tainted, although ſome few have fallen ſicke, for which it cannot be denied but that is ſomewhat, although not extreamly, contagious.</p>
+            <p>Thirdly, thoſe, which they call, <hi>Bubones</hi> and <hi>Carbunculi,</hi> are frequent concomitants of the <hi>Plague,</hi> neither was it e<g ref="char:EOLhyphen"/>ver known, but that the virulency of the Plague in ſome bodies, though not in all, betra'd it ſelfe by <hi>Carbuncles.</hi> Al<g ref="char:EOLhyphen"/>though I am not ignorant, but that theſe ariſe many times where the Plague is not, yet I am of <note n="e" place="margin">Lib. 8 de Bebr. cap. 5.</note>
+               <hi>Horatius Augenus</hi> his mind, that in the time of <hi>Contagion,</hi> every <hi>Bubo,</hi> (unleſſe proceeding <hi>à Lue Venerâ</hi> is Peſtilentiall, and ſo to be ac<g ref="char:EOLhyphen"/>counted. But whereſoere this Diſeaſe hath ſpread it ſelfe, I ne're yet ſaw any Carbuncle to ariſe: yet ſome of late (I heare) have appeared, but very rare, and I hope, ne're to be ſeen again.</p>
+            <p>Fourthly, Few, or none ſpotted, in the Plague, eſcape, in this ſickneſſe, many although are ſpotted, very few (in com<g ref="char:EOLhyphen"/>pariſon of them that recover) doe dye.</p>
+            <p>Notwithſtanding, I cannot aprove of their Opinion; who to avoid one extreame, runne into another, and be<g ref="char:EOLhyphen"/>cauſe it is not the <hi>Plague,</hi> therefore conceive it not at all <hi>Pe<g ref="char:EOLhyphen"/>ſtilentiall,</hi> nor to contain an <hi>Malignity,</hi> or <hi>Contagion,</hi> where<g ref="char:EOLhyphen"/>fore I ſhall ſhew them in the ſecond place, <hi>Poſitively,</hi> that it is Malignant, as we before defind it, and <hi>Contagious.</hi>
+            </p>
+            <p>For if they allow that <hi>Morbus benignus</hi> is that, which, as Phyſitians ſay, <hi>Supra propriam naturam nullum grave Sympto<g ref="char:EOLhyphen"/>ma habet,</hi> they muſt be inforced to grant, that this is <hi>Morbus Malignus,</hi> becauſe it hath, <hi>pejora quàm pro ſuae eſsentiae ratione Symptomata,</hi> or as <note n="f" place="margin">L. Pro<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>het. text. 14.</note>
+               <hi>Galen,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And ſure none upon due conſideration, can deny, but that the <hi>Symptoms</hi> of
+<pb n="3" facs="tcp:123977:3"/>
+this Diſeaſe are more violent, and of farre greater danger, then what ordinarily belong to putrid Feavers; which dan<g ref="char:EOLhyphen"/>gerous <hi>Symptoms</hi> ſhall be ſet downe among theſe following <hi>Signes,</hi> which will undoubtedly diſtinguiſh, <hi>Malignant</hi> Fea<g ref="char:EOLhyphen"/>vers, from others.</p>
+            <p>The firſt ſigne is <hi>Magna virium imbecillitas ſine manifeſtâ cauſâ, A great weakneſse without any manifeſt cauſe appearing.</hi> which hath been, and is ſtill very apparant in this Diſeaſe, in ſo much that ſtrong men, in a very ſhort time, have ſo much loſt their vigour, as they have not been able to walke, or ſcarce to ſtand, without the help, and aſſiſtance of thoſe a<g ref="char:EOLhyphen"/>bout them, although there hath been no ſudden evacuation to diſenable them, either by Vomiting, Purging, Sweating, or Bleeding, neither naturally, or by art. Nay, the Maligni<g ref="char:EOLhyphen"/>tyſometimes hath ſo farre prevail'd over the vitall ſpirits, that there hath been, to the great affrightment of thoſe a<g ref="char:EOLhyphen"/>bout them, <hi>frequens Syncope, &amp; Lipothymia,</hi> Fainting and Swounding, as often as removed from their beds.</p>
+            <p>The ſecond ſigne is, <hi>Pulſus frequens, parvus, &amp; admodum debilis, formicans nonnunquam &amp; intermittens, A quick, weak, creeping Pulſe, and ſometimes intermittent.</hi> It would be too long and tedious to ſhew the cauſe of <hi>Simple,</hi> or <hi>Reſpective differences</hi> in Pulſes, it will ſuffice to know, that the preſer<g ref="char:EOLhyphen"/>vation, and diſtribution of the naturall heat, and vitall ſpi<g ref="char:EOLhyphen"/>rits, is by the Pulſe, the uſe of which in generall is, <hi>conſer<g ref="char:EOLhyphen"/>vari</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>caloris nativi,</hi> or as <note n="g" place="margin">Lib. 1. Fen. 2. D octr 3. cap. 1.</note>
+               <hi>Avicen, regere ſpiritum.</hi> Now if the heart, being <hi>caloris &amp; ſpiritus vitalis fons, domici<g ref="char:EOLhyphen"/>lium, focus, &amp; officina,</hi> and together with the Arteries the In<g ref="char:EOLhyphen"/>ſtrumentall cauſe, ſhall be affected by putrid, maligne Va<g ref="char:EOLhyphen"/>pours, empoyſoning the ſtreame, and current of Spirits, from this Fountain, the vitall Faculty muſt neceſſarily de<g ref="char:EOLhyphen"/>cay, and the Pulſe be found weake, and Languide, and that with ſeverall variations.</p>
+            <p>
+               <pb n="4" facs="tcp:123977:4"/>
+It is likewiſe very obſervable, that <hi>Febris omnis, quâ Fe<g ref="char:EOLhyphen"/>bris, pulſus facit magnos,</hi> then on the contrary it muſt needs ariſe from the Malignity, that doth <hi>parvos &amp; debiles reddere pulſus.</hi>
+            </p>
+            <p>A great controverſie there is, whither by the <hi>Vrine</hi> alſo, <hi>Malignant Feavers</hi> may not be diſcern'd. My opinion with ſome others in briefe is, they cannot, becauſe the <hi>Maligna &amp; venenata qualitas</hi> doth inſenſibly ſteale, and ſeaze on the heart, without any violent agitation, or perturbation of Hu<g ref="char:EOLhyphen"/>mours, from which proceeds the alteration of Urines, ſo that the greateſt Argument of a Malignant Diſeaſe is, the <hi>Vrine</hi> to appeare good, when there are very bad ſymptoms. Both <note n="h" place="margin">In Comm. 2. Pro<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rhet. ad text. 2.</note>
+               <hi>Hipp.</hi> and <hi>Galen</hi> tell us, <hi>nullum in Vrinâ eſse ſignum quod dilirinm portendat,</hi> and <hi>delirium</hi> is no where ſo frequent, as in theſe Diſeaſes. Yet for the moſt part, <hi>Vrinae tenues, &amp; crudae ſunt,</hi> containing no ſediment, or if they doe, <hi>Excre<g ref="char:EOLhyphen"/>mento potius ſimile eſt, quàm ſedimento.</hi>
+            </p>
+            <p>Many other ſignes there are, taken from the Symptoms, or rather are indeed the Symptoms themſelves, which you may read at large in <note n="i" place="margin">
+                  <p>Theodoro Angelutio a Belforte: Eu<g ref="char:EOLhyphen"/>ſtachius Ru<g ref="char:EOLhyphen"/>dius.</p>
+                  <p>Joh. Colle. Octavianus Robertus. Coyttarus. Carolus Gal<g ref="char:EOLhyphen"/>lus.</p>
+                  <p>Th. Mina<g ref="char:EOLhyphen"/>dous, &amp;c.</p>
+               </note> Authors, I ſhall, for brevities ſake, mention them together. <hi>Dolores capitis intenſi, Vertigo, Ocu<g ref="char:EOLhyphen"/>lorum caligo, narium ſtillicidia, Aurium ſurditas &amp; tinnitus, I<g ref="char:EOLhyphen"/>maginatio laeſa, ſomnus variis &amp; abſurdis imaginibus interpella<g ref="char:EOLhyphen"/>tus, facies horrida, Cardialgia, Lipothymia, ſingultUs, Humo<g ref="char:EOLhyphen"/>rum corruptorum vomitus, vermium excretio, alvi dejecto valdè faetida, atra, livida, vireſcens; extrema corporis frigida.</hi> And neere upon all theſe have I obſerved in this City, in parti<g ref="char:EOLhyphen"/>cular perſons; ſince the progreſſe of this Diſeaſe.</p>
+            <p>But what need we any farther ſignes then the <hi>Spots,</hi> which appeare upon halfe the number at leaſt of thoſe that fall ſicke. <hi>Febres Petechiales, Peticulares, Lenticulares &amp; Purpura<g ref="char:EOLhyphen"/>tae,</hi> were never yet knowne, or otherwiſe accounted then
+<pb n="5" facs="tcp:123977:4"/>
+Malignant. except by <note n="k" place="margin">In Scholiis in Meth. Med. Michaelis Joh. parchialii Lib. 1. cap. 1.</note>
+               <hi>Peredam.</hi> whoſe worthleſſe argu<g ref="char:EOLhyphen"/>ments, I paſſe by. Nor is it to be doubted, but the Spot<g ref="char:EOLhyphen"/>ted Feavers were very well knowne to the Ancients, al<g ref="char:EOLhyphen"/>though no tract, extant, hath been written of them, ſince <note n="l" place="margin">Lib. 5. Meth. Med. cap 12.</note>
+               <hi>Galen</hi> makes mention of his '<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <hi>Hippocrites</hi> his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, like to the bitings of Gnats and Fleas, the materiall cauſe of theſe Spots, is the moſt thinne, and ſubtle part of the morbifique matter, thruſt out to the skinne, and although it be the ſtrength of Nature, to ſend out theſe Spots, and therefore by ſome are accounted <hi>Criticall;</hi> yet they argue abundance of putrefaction with<g ref="char:EOLhyphen"/>in, and therefore may bee accounted <hi>Symptomaticall.</hi> and (contrary to the common opinion) the more Spots, the more danger.</p>
+            <p>Some from the colour of theſe Spots draw <hi>Prognoſticks,</hi> and tell you, that <hi>rubrae maculae,</hi> red ſpots ariſe from a good and well tempered bloud, though now corrupted, and there<g ref="char:EOLhyphen"/>fore are of all the moſt ſafe. <hi>Maculae flavae vel virides,</hi> yel<g ref="char:EOLhyphen"/>lowiſh or greeniſh Spots from putrid Choller, and there<g ref="char:EOLhyphen"/>fore are of a worſe condition. <hi>Maculae puniceae &amp; nigrae,</hi> Black and blew ſpots from Melancholy, and aduſt Humours, and therefore are the worſt of all. This for the moſt part holds true, yet oftentimes we find them eſcape, and dye too, with Spots of all Colours.</p>
+            <p>Concerning the <hi>Cauſes</hi> of this Diſeaſe, there are diverſi<g ref="char:EOLhyphen"/>ties of opinions; and that of <hi>Divines</hi> deſerves the firſt place, as being moſt certain that Diſeaſes are ſent from God, as the puniſhments of ſin, who hath been moſt mercifull to this City, in ſparing us heretofore, when our neighbours round about us were viſited, but although with them, we ac<g ref="char:EOLhyphen"/>knowledge, that God may by his abſolute power, and with<g ref="char:EOLhyphen"/>out ordinary, and ſecond cauſes, ſend the Plague, or other
+<pb n="6" facs="tcp:123977:5"/>
+Diſeaſes among us, yet uſually he doth it, according to his ordinary power, working by the mediation of ordinary, na<g ref="char:EOLhyphen"/>turall Cauſes, which we ſhall now farther enquire after. And firſt to ſpeak of the <hi>generant,</hi> then the <hi>propagating Cauſes,</hi> Some attribute the cauſe of the diſeaſe to the <hi>Aire,</hi> which this Summer, by reaſon of continued Raine, hath proved hot and moiſt, of which <note n="m" place="margin">1. de <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> cap. 4.</note>
+               <hi>Galen</hi> ſpeakes thus. <hi>Peſtilentes (vel malignos morbos) oriri eſt neceſsarium, cùm aeris temperatura, à naturali habitu ad caliditatem, &amp; humiditatem immoderatam fue<g ref="char:EOLhyphen"/>rit converſa.</hi> of which conſtitution of the Aire <note n="n" place="margin">3. Epid. Com 3.</note>
+               <hi>Hippocrates</hi> likewiſe writes at large. Therefore if the weather were ſea<g ref="char:EOLhyphen"/>ſonable and very hot, the humiditie, as ſome ſuppoſe, would be ſpent, and the Diſeaſe ceaſe. As it is reported the Plague doth at <hi>Aleppo,</hi> and other places in the Turkes Dominions. What may happen in that Continent, I know not, but in this our Iſland, I conceive there never wants moiſture e<g ref="char:EOLhyphen"/>nough, to be anſwerable to the greateſt heats, either of the Canicular dayes, or any other, and then the danger may be, if the ſeaſon proves hotter or dryer, that this diſeaſe may grow to a higher degree of putrefaction, and malignity, it being too, too often known, that theſe Malignant Diſeaſes forerunne the Plague. But I doe not conceive thoſe acci<g ref="char:EOLhyphen"/>dentall properties of the Aire, <hi>Heat,</hi> or <hi>Cold,</hi> to be neceſſari<g ref="char:EOLhyphen"/>ly requiſite, either to the Generating or Propagating of ma<g ref="char:EOLhyphen"/>lignant Diſeaſes. Since we find them rage in all ſeaſons, many years together, as that malignant <note n="o" place="margin">
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. Caius, Lib de Ephe<g ref="char:EOLhyphen"/>merâ Britan<g ref="char:EOLhyphen"/>nicâ.</note>
+               <hi>Sudor Anglicus,</hi> or the ſweating ſickneſſe, <hi>Anno</hi> 1486. continued Summer and Winter, neere upon forty years. I am therefore of opinion with <hi>Fernelius, Platerus,</hi> and others, that the hot and Moiſt conſtitution of the Aire, can be but <hi>Cauſa praeparans,</hi> but to make up the <hi>adaequate Cauſe</hi> of Malignant Diſeaſes, there is required that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Hippocratis,</hi> which is thought to be,
+<pb n="7" facs="tcp:123977:5"/>
+               <hi>Aeris conſtitutio occulto modo &amp; totâ naturà nobis adverſa,</hi> the Aire having its alteration, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from the occult in<g ref="char:EOLhyphen"/>fluences of the Heavens: there may be ſuch ſtrange maligne influences of the ſtarres, at this time, but 'tis more then we know, or more then Aſtrologers have foretold; if the Cauſe of this Diſeaſe muſt be found i'th' <hi>Aire,</hi> I ſhould rather at<g ref="char:EOLhyphen"/>tribute it to thoſe putrid exhalations, drawne up by the Sunne, from ſtinking matter, Dung, Carcaſes of dead Hor<g ref="char:EOLhyphen"/>ſes, and other Carrion, in and about the City, and were there care taken for the remooving theſe noyſome inconve<g ref="char:EOLhyphen"/>niences, and keeping the Streets ſweet, and cleane, it would doubtleſſe tend much to the abatement of the Diſeaſe.</p>
+            <p>A Second Cauſe is attributed to <hi>Diet,</hi> &amp; although there be no ſuch ſcarcity of Proviſions as to force us to feed upon bad meates, yet I cannot altogether excuſe our Drink, being for the moſt part (by reaſon of the multitude, and concourſe of people) over-new, and not ripe or fit for drinking. I could wiſh the Brewers would ſomwhat regard our health, as well as their owne profit, in drying their Mault ſufficiently, throughly boyling their Beere, making cleane their Veſſels; whereas the complaint againſt them is, they make uſe of ſlack-dried Mault, not halfe boyle their Beere, adde few, or no hopps, and tunne it up in unwaſhed Veſſells, which cau<g ref="char:EOLhyphen"/>ſeth the Drinke to be crude, raw, and apt to corrupt within us. The Brew-houſes all ſtand upon the Bankes of the Ri<g ref="char:EOLhyphen"/>ver <hi>Iſis,</hi> which of it ſelfe is a cold hungry water, the ſource and ſprings of it ariſing from <hi>Cotſwold</hi> in <hi>Gloceſterſhire;</hi> where at the ſpring head, the extremity of coldneſſe in the water is ſuch, that as it is obſerved, Beaſts refuſe to drinke of it; how great care then ought they to take i'th' boyling, whereby to alter, and amend this quality of the water.</p>
+            <p>
+               <pb n="8" facs="tcp:123977:6"/>
+But we need not look farre for a cauſe, where there is an Army reſiding, as the old verſe ſhewes, which the <note n="p" place="margin">Thucy<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Lib. 2.</note>
+               <hi>Athe<g ref="char:EOLhyphen"/>nians</hi> called to mind in their Calamity; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Or as <note n="q" place="margin">Iliad. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Home</hi> ſpeaks of his Greeks. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> It being ſeldome, or never known, that an Army where there is ſo much filth, and naſtineſſe in Diet, worſe lodging, unſhifted apparell &amp;c. ſhould con<g ref="char:EOLhyphen"/>tinue long with contagious Diſeaſes.</p>
+            <p>The cauſe of its <hi>Propagation</hi> and diffuſion is, <hi>Natura e<g ref="char:EOLhyphen"/>ius contagioſa.</hi> That this Diſeaſe is contagious is not to be <note n="r" place="margin">Malignn. eſſe, eſt pro<g ref="char:EOLhyphen"/>prietas alicu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>antum <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peciei morbi c<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntagioſi.</note>doubted, ſince the Rule holds conſtantly true, All Malig<g ref="char:EOLhyphen"/>nant Diſeaſes are Contagious, though all contagious Di<g ref="char:EOLhyphen"/>ſeaſes are not Malignant, the infection, &amp; <hi>Seminum Conta<g ref="char:EOLhyphen"/>gij</hi> being that which the Graecian call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which are ſent forth, and ſlow from the party diſeaſed, ſometimes <hi>per expirationem &amp; haltum,</hi> ſome<g ref="char:EOLhyphen"/>times <hi>perporos, cutis</hi> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; after being tranſ<g ref="char:EOLhyphen"/>mitted, and received in <hi>corpore analogo,</hi> doe operate, and produce in it the ſame ſpecificiall Diſeaſe. The Queſtion is how long theſe <hi>ſemina morbi</hi> may lye hid in the body be<g ref="char:EOLhyphen"/>fore they <note n="s" place="margin">Habet ſe con<g ref="char:EOLhyphen"/>tagium Fer<g ref="char:EOLhyphen"/>menti inſtar, quod in cor<g ref="char:EOLhyphen"/>pore analogo receptum, ſi<g ref="char:EOLhyphen"/>mil m diſpoſo<g ref="char:EOLhyphen"/>ſiliodem illi inducet. Sen.</note>Fermentate the Humours, and break forth into action. <hi>Cardan</hi> and many others hold they may lurke not only dayes but ſome weekes, before the infection betray it ſelfe; as for example, the venemous biting of a mad Dog, doth long prece'de <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Feare of drowning; <note place="margin">t Lib 1. de 26.</note>whether the Contagion be taken <hi>immediatly</hi> by contact, or immediately, and at a diſtance, and that either <hi>per Fomitem</hi> or <hi>per Aerem,</hi> how the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>in quinamenta,</hi> doe lurke in the body, and whether that body muſt neceſſarily be <hi>corpus analogù</hi> that muſt receive them, ſo that beaſts cannot catch the diſeaſe of us, as we do not each the Murrein of beaſts, it is not Materiall here to be determined. Sufficient it is for
+<pb n="9" facs="tcp:123977:6"/>
+our purpoſe, that it appeares to be Contagious by infecting whole Families, and ſeldome in any houſe, where ſicke Souldiers of either ſide are quartered, but the Inhabitants likewiſe fall ſicke of the ſame Diſeaſe; but if any man be yet obſtinate, and will not beleive it Contagious, I an<g ref="char:EOLhyphen"/>ſwer him as <hi>Proteus</hi> in <hi>Lucian</hi> did <hi>Menelaus,</hi> who would not beleive he could turne himſelfe into fire alſo, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Let him goe near and try. <note place="margin">The Reme<g ref="char:EOLhyphen"/>dies.</note>
+            </p>
+            <p>It may be thought by moſt, but loſt labour, to attempt the ſetting downe any Remedies, ſince it is commonly re<g ref="char:EOLhyphen"/>ported, as <hi>Coyttarus</hi> writes, was of his <hi>Febris purpurata</hi> that the Phyſitians themſelves know not the Diſeaſe, nor, the cure of it. True it is, we doe not here proceed altoge<g ref="char:EOLhyphen"/>ther in the ſame order and method, as in common putrid Feavers, which contain no malignity in them, but as we find <hi>altera indicantia,</hi> ſo we muſt provide <hi>altera remedia,</hi> yet we are not deſtitute of Rule and Method, to be obſerved in the cure of theſe occult malignant Diſeaſes, but as <note n="n" place="margin">Lib. 1. cap 1.</note>
+               <hi>Euſtachius Rudius</hi> well conceives <hi>occultis omnibus praeter na<g ref="char:EOLhyphen"/>turam affectibus, tacitâ quidem &amp; occultâ medicamentorum pro<g ref="char:EOLhyphen"/>prietate ſuccurendum, non tamen Empiricorum ritu, ſed arte &amp; methodo.</hi> For as in many other things, ſo in the Nature, and Remedy of theſe diſeaſes, we muſt with <hi>Scaliger</hi> have refuge to that <hi>falutare Aſylum</hi> of occult qualities, who like<g ref="char:EOLhyphen"/>wiſe tells you: <note n="x" place="margin">Exercitat. 218. Sect. 8.</note>
+               <hi>ad manifeſtas omnia deducere qualitates ſumma impudentia eſt,</hi> and they, which goe about to endeavour it <hi>rationes ineptas, vel ridiculas adferunt,</hi> as <note n="y" place="margin">Lib. 1. de Nat. Fac. cap. 14.</note>
+               <hi>Galen</hi> ſaith of <hi>Epi<g ref="char:EOLhyphen"/>curus</hi> and <hi>Aſclepiades.</hi> Theſe <hi>Morbi maligni</hi> are indeed, <hi>Ferne<g ref="char:EOLhyphen"/>lius</hi> his <hi>Morbi totius ſubſtantiae, contra quos, non calidis, frigi<g ref="char:EOLhyphen"/>dis, humidis &amp; ſiccis, ſed his quae tota ſubſtantia agunt pugnamus,</hi> That <hi>Maligna</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> contpined in them, is not to be ex<g ref="char:EOLhyphen"/>pell'd by any other Medicaments, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. It wil there
+<pb n="10" facs="tcp:123977:7"/>
+fore plainly appearere, that in the cure of this malignant Fever now raging, all our intentions ought to be directed to theſe two, <hi>the Malignity,</hi> &amp; the <hi>Fever,</hi> from which of theſe the greateſt danger may ariſe is chiefly to be conſidered. The Fever ſometimes requires Vomiting, Purging, Blee<g ref="char:EOLhyphen"/>ding; eſpecially in the beginnig, of which we ſhall ſpeak more hereafter That which is principally to be regarded, is for the moſt part, <hi>the malignity,</hi> which being timely pre<g ref="char:EOLhyphen"/>vented by ſome Alexipharmacall Medicine, there will be little danger of the enſuing Diſeaſe. I have known ſome who preſently upon complant of Chilneſſe, of a king and dizneſſe in the head, have taken a Cordiall, gone ſtrait way into bed, and ſwet, and riſen next day, without any diſtem<g ref="char:EOLhyphen"/>per: which may very well be, by dicuſſing, and expelling the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <hi>inqninamentum putredinale,</hi> before it have fer<g ref="char:EOLhyphen"/>mented, and aſſimilated the whole Maſſe. And by this means alone was cured that moſt fatall Diſeaſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Sudor Anglicus,</hi> which raged with ſuch deſtructive vio<g ref="char:EOLhyphen"/>lence, (till conſtant ſweating for 24. houres, the only cer<g ref="char:EOLhyphen"/>tain Remedy was found out) that neighbouring Countries did not believe this Iſland had ſo many inhabitants as died. It is requiſite therefore to ſet downe proper and ſpecificiall Medicines, <hi>ad</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or the expulſion of the Malignity. <hi>Theodoro Angelutio à Belforte,</hi> who writ his book, <hi>de Febre Maligna</hi> after his recovery from the Diſeaſe, and therefore may be the better credited, divides thoſe Medi<g ref="char:EOLhyphen"/>caments, which preſerve the Heart from malignity, into fixe Claſſes, but more compendiouſly, they may be divi<g ref="char:EOLhyphen"/>ded into theſe two, <hi>Simplicia,</hi> and <hi>Compoſita:</hi> of the firſt ſort are <hi>Angeleca Valeriana, Carduus benedictus, Scordium. Acetoſa Tormentilla, Dictamus, Scabioſa, Vincetoxicum, Ruta, Morſus, Diaboli, Veronica, Pimpinella, Scorzonera, Galendula, Abſyn<g ref="char:EOLhyphen"/>thium,
+<pb n="11" facs="tcp:123977:7"/>
+Zedoaria, Imperatoria, Gentiana, Baccae Juniperi, Cornu Cervi, Os de Corde Cervi, Bolus Armenus, Terra Sigillata, Sma<g ref="char:EOLhyphen"/>ragdus, Hyacinthus.</hi> The ſecond ſort, or Compounds, are, <hi>Theriaca Andromachi, Mithridatium, Confectio Liberans, Ele<g ref="char:EOLhyphen"/>ctuarium de Ovo, Diaſcordium Fracaſtorii, Pulvis Saxonicus, Antidotus Guidonis de Cauliaco, Pulvis, Caeſaris rubeus, &amp; Gryſeus, Electuarium Camphoratum Kegleri,</hi> 
+               <note n="z" place="margin">Gal de An<g ref="char:EOLhyphen"/>tidot is. v.</note>and Others. Out of all which upon occaſion we may make choice, ſe<g ref="char:EOLhyphen"/>lect Cordialls for our uſe and purpoſe, the poorer ſort, and <hi>Common Souldiers,</hi> when they firſt find the Diſeaſe com<g ref="char:EOLhyphen"/>ming upon them, may take a draught of Carduus-Poſſet<g ref="char:EOLhyphen"/>drinke, and with it ſome <hi>Diaſcordium, Venice or, London Trea<g ref="char:EOLhyphen"/>cle,</hi> ſweating after it, or an Electuary may be compounded of them after this manner;</p>
+            <list>
+               <item>R. <hi>Confect. Liberant.</hi> vnc. 1.
+<list>
+                     <item>
+                        <hi>Diaſcord. Fracaſt.</hi> vnc. ſem.</item>
+                     <item>Theriac. Andromachi.</item>
+                     <item>Pulv. Saxon.</item>
+                     <item>Elect. ex Ovo. an <hi>Drach. ij.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Cum Syrup. ex Acetos. Citri.</item>
+               <item>Vel Luiula fiat Electuarium.</item>
+            </list>
+            <p>Take a Dramme of it in a draught of Poſſet drinke, in which <hi>Carduus, Angelica, Scabious, Sorrell,</hi> or <hi>Marigold Flow<g ref="char:EOLhyphen"/>ers,</hi> have been boyled; The Richer ſort may take likewiſe of the ſame <hi>Electuary,</hi> and drinke after it three or foure ounces of this <hi>Iulep</hi> made of diſtilled waters, which doe penetrate more, and ſooner provoke ſweat.</p>
+            <list>
+               <item>R. <hi>Aq. Cardui.</hi> b.
+<list>
+                     <item>Angelice.</item>
+                     <item>
+                        <hi>Bugloſse. an.</hi> vnc. iij.</item>
+                     <item>Sudorif.</item>
+                     <item>
+                        <hi>Theriacal. an.</hi> ℥ j ſs.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="12" facs="tcp:123977:8"/>
+Syrup. ex Acetos. Citr. vel è Limon. <hi>unc. ij.</hi>
+                  <list>
+                     <item>
+                        <hi>Luiule.</hi> unc. 1.</item>
+                  </list>
+               </item>
+               <item>Spirit, Vitrioli gt. <hi>12.</hi>
+               </item>
+               <item>Miſce.</item>
+            </list>
+            <p>Some repoſe great confidence in coſtly powders, as <hi>Be<g ref="char:EOLhyphen"/>zoar, Contraerua, Gaſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons Powder, Vnicornes Horne,</hi> and now a dayes the Lady <hi>Kents</hi> Powder (as it is vulgarly called) is in great eſteeme. The ingredients of which are not common<g ref="char:EOLhyphen"/>ly known, although we may gueſſe at them. 'Tis generally found by experience, they ſay, that this powder is of in<g ref="char:EOLhyphen"/>comparable vertue, although I have known when it hath not anſwered our expectation, and that Cordialls fetcht from the Apothecaries ſhop, have at laſt proved more effe<g ref="char:EOLhyphen"/>ctuall. Neither doe I think it good to truſt altogether to new inventions, when we have ſo many Antidotes appro<g ref="char:EOLhyphen"/>ved of by the Ancients, and continued with happy ſucceſſe to theſe our times. <hi>Praeſtat benè inventis, ac probatis uti, quám nova componere;</hi> and I know not who ſpeakes thus to the pur<g ref="char:EOLhyphen"/>poſe. <hi>Cùm omnia illa Alexipharmaca experientiâ potius quam ratione inventa ſunt, nemo ſuam ſalutem glorioſis nonnullorum promiſsis concredat, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> novis medicamentis, ſed iis, quae á mul<g ref="char:EOLhyphen"/>tis probata fuére, conſidat.</hi> For if the <hi>Bezoar ſtones</hi> (which are thought to give the vertue to moſt of thoſe powders) bee very rare and ſcarce among the Indians themſelves, ſure the great number we have muſt needs be couuterfeit, and very unſafe it were for any man to rely upon them alone, to ſave his life. What likewiſe that rare, treaſur'd up Unicornes horne is, I know not, nor could yet ever learne, and have no ſuch confidence of its vertue, as to entruſt my life to it.</p>
+            <p>Nor is it enough, to take <hi>Cordiall Medicines</hi> once or twice, thinking then we are ſecure; but all the time of the Di<g ref="char:EOLhyphen"/>ſeaſe, as towards night, to drinke this or the like Julep.</p>
+            <p>
+               <pb facs="tcp:123977:8"/>
+               <list>
+                  <item>R. Aq. <hi>Borrag.</hi>
+                     <list>
+                        <item>
+                           <hi>Acetos. an.</hi> unc. j</item>
+                        <item>
+                           <hi>Bezoard.</hi> Sem. unc.</item>
+                     </list>
+                     <list>
+                        <item>
+                           <hi>Syrup. Luiule.</hi> unc. j</item>
+                        <item>Diaſcord. Fracaſt.</item>
+                        <item>Confect. liberant. an. <hi>Scrup. j.</hi>
+                        </item>
+                        <item>
+                           <hi>Aſceti ſcordii.</hi> drach. ij.</item>
+                     </list>
+                  </item>
+                  <item>Miſce.</item>
+               </list>
+to drink like likewiſe one or two ounces, every ſecond, or third houre, of this following.</p>
+            <list>
+               <item>R. <hi>Aq. Cardui.</hi> b. unc. iij.
+<list>
+                     <item>Luiule.</item>
+                     <item>Herculis Saxon. frig. an. <hi>unc. ij.</hi>
+                     </item>
+                     <item>
+                        <hi>Bezoard.</hi> unc. 1.</item>
+                  </list>
+                  <list>
+                     <item>Syrup, Garyoph.
+<list>
+                           <item>Luiule.</item>
+                           <item>E Limon. an. <hi>drach. ivj.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Confect. liberant.</hi> drach. ij.
+<list>
+                           <item>
+                              <hi>Alkerm.</hi> drac. 1.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>M.</hi> ft Iulapium.</item>
+            </list>
+            <p>Theſe or the like may be altered upon any occaſion, and made fit to be anſwerable both to the Diſeaſe, and the Symptoms. The ſhaving of <hi>Harts-Horne</hi> are of ſingular good uſe in this Diſeaſe, both to boyle in Poſſet-Drinke and broth, or to make a decoction thus.</p>
+            <list>
+               <item>R. <hi>Raſur. Corn. Cerv.</hi> unc. Sem.
+<list>
+                     <item>
+                        <hi>C.</hi> C. <hi>praep.</hi> drach. ij.</item>
+                     <item>Aq. <hi>Fontaine</hi> Lib. ij. ſem.</item>
+                  </list>
+               </item>
+               <item>Coq. ad Tertias, addendo.
+<list>
+                     <item>
+                        <hi>Kad. Scorzonere,</hi> drac. ij.</item>
+                     <item>Sem. &amp; Cort. Citri. an. <g ref="char:dram">ʒ</g>
+                        <hi>jſs.</hi>
+                     </item>
+                     <item>
+                        <hi>Santal. Citrin.</hi> Sem. drach.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="4" facs="tcp:123977:9"/>
+Affunde Aq. Scordii. <hi>unc. 5.</hi>
+               </item>
+               <item>Ebulliant ſemel at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> iterum. Col. utm adde.
+<list>
+                     <item>
+                        <hi>Snccie Limon.</hi> unc. Sem.</item>
+                     <item>Syrup. é Limon. <hi>unc. ij.</hi>
+                     </item>
+                     <item>Sp. Vitrol. q. s.</item>
+                  </list>
+                  <list>
+                     <item>ad gratam aciditatem.</item>
+                  </list>
+               </item>
+            </list>
+            <p>This Drink quencheth the Thirſt, opens obſtructions, and reſiſts both putrefaction and malignity. Of which or ther waters we may likewiſe make Cordiall emulſions.</p>
+            <list>
+               <item>R. <hi>Sem. Cardui.</hi> b.
+<list>
+                     <item>Napi. an. ℥<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <hi>ſs.</hi>
+                     </item>
+                     <item>
+                        <hi>Aquilegie.</hi> drach. <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</item>
+                     <item>
+                        <hi>Melon. excort.</hi> unc. ſem.</item>
+                  </list>
+                  <list>
+                     <item>Simul contunà. in Mortar.</item>
+                     <item>Marmoreo, ſenſim affuſis.</item>
+                     <item>Aq. Borrag.
+<list>
+                           <item>
+                              <hi>Cardui.</hi> b.</item>
+                           <item>Acetoſe.</item>
+                           <item>
+                              <hi>Scabioſe an.</hi> unc. ij.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Pt ſ. a. Emulſio. cui adde.
+<list>
+                     <item>
+                        <hi>Magiſt. Perlar.</hi> drach. ſem.
+<list>
+                           <item>C. C. uſt. praep. <hi>Scrup. ij.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>M. Dulcoretur Rotul.
+<list>
+                     <item>Manus Chriſti perlat. q. s.</item>
+                  </list>
+               </item>
+            </list>
+            <p>The Malignity thus provided againſt, we are in the next place to conſider the <hi>Fever,</hi> and in this, as in other putrid Fevers, many times we find Nature endeavouring to ex<g ref="char:EOLhyphen"/>pell the Morbifick matter by Vomiting, and that very of<g ref="char:EOLhyphen"/>ten <hi>cum aegri</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the great eaſe of the Patient, which courſe we may ſafely fallow, and help Nature in the begin<g ref="char:EOLhyphen"/>ning of the Diſeaſe, for which Method in Practice, we can produce more reaſon and experience, then authority al<g ref="char:EOLhyphen"/>though
+<pb n="15" facs="tcp:123977:9"/>
+we are not deſtitute of <note n="a" place="margin">Gal. comm. in Hipp. Aph. 24 Lib. 1.</note>That neither, when there is <hi>Turgida materia ad ſuperiora vergens.</hi> And in that Malig<g ref="char:EOLhyphen"/>nant Camp-diſeaſe, which raged in <hi>Hungary, anno</hi> 1566. and agrees very much with this our <hi>Morbus Caſtrenſis, Tob. Coberus,</hi> writes thus. <note n="b" place="margin">Obſ. Ca<g ref="char:EOLhyphen"/>ſtrenſ. Unga<g ref="char:EOLhyphen"/>rie De<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad. 2. Obſervat. 5.</note>
+               <hi>In morbo Vngarico ad vomitum, tan<g ref="char:EOLhyphen"/>quam ſacram Anchoram, mox confugiendum eſse, neminem nega<g ref="char:EOLhyphen"/>turum, qui curationi hujus morbi interfuerit.</hi> and drawes his Argument from the copiouſneſſe of viſcous, tough Hu<g ref="char:EOLhyphen"/>mors, lodg'd in the ſtomach, and entrails, which Nature was not able to concoct, nor could they bee otherwiſe diſcharged, but by this ſudden evacuation. By this meanes uſually, that <hi>Saburra vitioſorum humorum in ventaiculo &amp; pri<g ref="char:EOLhyphen"/>mis vi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> is removed, and the <hi>Nauſea, Dolor, Aeſtus, Amaritu<g ref="char:EOLhyphen"/>do, Anxietas,</hi> incident to this Fever, much leſſened, if not quite taken off. Yet I would wiſh a man well adviſed, be<g ref="char:EOLhyphen"/>fore he adventure to give ſtrong, <hi>Antimoniall Vomits</hi> in this diſeaſe, gentle and eaſie Vomits, as <hi>Aqua tepida, Oxymel, Vi<g ref="char:EOLhyphen"/>num Scyllit. Decoctum Raphani,</hi> &amp;c. may ſafely be adminiſtred.</p>
+            <p>But all Bodies are not apt, or fit for vomiting, and to ſuch Lenitive Medicines, moderate purging Phyſick may be pre<g ref="char:EOLhyphen"/>ſcribed, as <hi>Syrup of Roſes, Manna, Caſsta, Tamarinds,</hi> and <hi>(Tur<g ref="char:EOLhyphen"/>gente Materia) Rheubarb, Agarick, Sena,</hi> or our common <hi>pur<g ref="char:EOLhyphen"/>ging infuſion,</hi> conſiſting of the three latter, and their corre<g ref="char:EOLhyphen"/>ctives, with an addition of ſome proper Syrups to it. And theſe <hi>minorative medicines</hi> muſt be taken in the beginning of the Diſeaſe, <hi>(ſi turgeat materia)</hi> before the third day be paſt, otherwiſe better it is (in reference to that of <note n="c" place="margin">Aph. 22 lib 1.</note>
+               <hi>Hippocrates. Concocta movere &amp; purgare oportet, non cruda)</hi> to forbeare all theſe, and make uſe only of <hi>Clyſters,</hi> or ſometimes (if occaſi<g ref="char:EOLhyphen"/>on ſo require) purging per <hi>Epicraſin.</hi> With theſe purgatives likewiſe <hi>Heurnius</hi> tells us, he hath admixed <hi>Alexipharmaca,</hi> 
+               <note place="margin">
+                  <hi>d</hi> Lib. de Pe<g ref="char:EOLhyphen"/>ſte cap. 9.</note>putting Nature to contrary motions, Purging, and Sweat<g ref="char:EOLhyphen"/>ing
+<pb n="16" facs="tcp:123977:10"/>
+both at once, and that, with very good ſucceſſe. But from ſtrong violent Purgatives, as <hi>Scammonie, Colocynth, Tur<g ref="char:EOLhyphen"/>bith,</hi> &amp;c. we muſt by all means abſtain, it being knowne by ſad experience, that they have proved fatall to the ſick, by overmuch diſturbing, and weakning of Nature, drawing in<g ref="char:EOLhyphen"/>wards putrid, maligne Humors, after which, too, too often followes, a deſperate <hi>Diarrhaea,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>In the beginning likewiſe of this Feaver, the opening of a <hi>Veine</hi> is very requiſite, eſpecially for <hi>Plethorick bodyes,</hi> where the Quantity of the Bloud diſtending the Veſſells is burdenſome to Nature, and where Repletion is another Diſeaſe: For if fulneſſe of Blood be of it ſelfe dangerous, as <note n="e" place="margin">Lib. 3<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de Di<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta.</note>
+               <hi>Hippocrates</hi> tells us, how great muſt the danger be, when this fulneſſe ſhall be corrupted? Wherefore <note n="f" place="margin">Lib 11 de Meth. Med.</note>
+               <hi>Galen</hi> univerſally pronounceth, <hi>Saluberrima eſt in omni putridâ fe<g ref="char:EOLhyphen"/>bre ſanguinis miſsio.</hi> Yet ſome there are, who utterly con<g ref="char:EOLhyphen"/>demne letting blood, and object the horrid Symptoms, and great weakneſſe incident to this Feaver. But we finde in Pe<g ref="char:EOLhyphen"/>ſtilentiall Feavers (where the Symptoms and weakneſſe are not loſſe) <note n="g" place="margin">Lib. 14. de Meth. Med. cap. 10.</note>
+               <hi>Galen</hi> lets bloud, and <hi>Rufus</hi> (more ancient then <hi>Galen)</hi> whom <note n="h" place="margin">Cap 25. lib. 6. ſuae Synop<g ref="char:EOLhyphen"/>ſeos.</note>
+               <hi>Oribaſius</hi> commends for ſo doing. So like<g ref="char:EOLhyphen"/>wiſe <note n="i" place="margin">Lib. 2. c. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note>
+               <hi>Paulus Aegineia,</hi> 
+               <note n="k" place="margin">Cap 94.</note>
+               <hi>Aëtius,</hi> and with the Grecians conſent <hi>Avicen, Averroes,</hi> the chief among the Arabian Phy<g ref="char:EOLhyphen"/>ſitians. Phlebotomy therefore doth well before the fourth day be paſt, after which time when the Diſeaſehath diffus'd it ſelfe, and wrought a Turbulency, and confuſion in the Humours, for the Generality it is obſerved, not ſo much to help, as weaken Nature, although by Leeches the <hi>Hae<g ref="char:EOLhyphen"/>morroide Veins</hi> have been opened after that time with good ſucceſſe. And in caſe the Phyſitian be not ſent for till five or ſix daies be paſt, <hi>Galen</hi> adviſeth us (if there be <hi>Ingens mor<g ref="char:EOLhyphen"/>bus &amp; virium robur)</hi> after that time to let bloud. <note n="l" place="margin">Lib. de C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and ratione per ſanguinis <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iſſionem.</note>
+               <hi>Quoniam
+<pb n="17" facs="tcp:123977:10"/>
+quintum ſaepe diem, aut ſextum ab initio expectant, priuſquam nos ad curandum accerſant, expediet nihiolo ſecius ſanguinem detrahe<g ref="char:EOLhyphen"/>re, etiamſi hujus auxilii tempus ſit omiſsum.</hi> Where there is <hi>Cacochymia, ſine Plethora,</hi> we muſt ſparingly diminiſh the Quantity, and (as farre as may be) endeavour to amend the Quality. And ſince there is no loſſe of bloud without ſome loſſe of Spirits alſo, we muſt not unadviſedly draw bloud, but ſeriouſly conſider, and weigh the <note n="m" place="margin">Lib. eo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſet down by <hi>Galen</hi> for our direction. <hi>The Patients, Age, Strength, Conſtitution, Country, Diet, the time,</hi> &amp;c. Guided by which we cannot erre, nor ſhall ever have cauſe to repent of what we have undertaken. The Queſtion is when the Spots appeare, and that Nature ſeems to thruſt out the Diſeaſe, whether we may let bloud, or not? <note n="n" place="margin">Lib. 3 de Contagione. Cap. 5.</note>
+               <hi>Fracaſtori<g ref="char:EOLhyphen"/>us</hi> Forbids it. But the Anſwer in briefe is, we may; becauſe the ſpots are only putrid evaporations, thruſt out to the circumference, the ſeeds and matter whereof remain with<g ref="char:EOLhyphen"/>in, in the Center, and are in part drawne away by letting bloud: in the Small Pox or Meaſels, the caſe is farre diffe<g ref="char:EOLhyphen"/>rent, for there the Putrid matter it ſelfe is thruſt out to the skinne, which by bloud-letting would be drawn back a<g ref="char:EOLhyphen"/>gain. But in <note n="o" place="margin">Lib 6. Cap. 4.</note>
+               <hi>Febre Petechali, Iohanes Colle,</hi> and <hi>Ludovicus Mercatus</hi> (if you think them Authentick) ſay, <hi>Semel, bis, ter vel ſaepius ſanguinem detrahere licet,</hi>
+            </p>
+            <p>I know noe reaſon, why the Common people account it death to ſleep after letting bloud, and therefore keep them waking all the day after, or at leaſt ſix houres. <note n="p" place="margin">Lib. 2. Meth. Med.</note>
+               <hi>Fer<g ref="char:EOLhyphen"/>nelius</hi> only gives the reaſon thus, <hi>ne languidior calor extin<g ref="char:EOLhyphen"/>guator, aut obruantur i<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>inuti ſpiritus</hi> which after one houres ſpace, I thinke we need not feare I I am ſure <note n="q" place="margin">Meth. Med. cap. 4.</note>
+               <hi>Galen</hi> when he had drawn bloud from his patient <hi>uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad animi de<g ref="char:EOLhyphen"/>liquium,</hi> within two houres let him ſleep, and would not
+<pb n="18" facs="tcp:123977:11"/>
+wake him, and in the greateſt <hi>Haimorrhages</hi> which come of themſelves, we let them preſently ſleep without danger.</p>
+            <p>
+               <hi>Veſicatories</hi> applied to the extreme parts, Armes, and Leggs, are of good uſe, by drawing and diverting the vi<g ref="char:EOLhyphen"/>rulent matter from the head, and Principall parts. <hi>Cantha<g ref="char:EOLhyphen"/>rides</hi> are moſt in uſe to make them, nor did I ever yet find, which many feare, that the Bladder ſuffered any inconve<g ref="char:EOLhyphen"/>nience from them, they may be applied ſafely upon any, but a Criticall day.</p>
+            <p>Concerning <hi>Ligatures,</hi> and <hi>Frictions,</hi> of the Leggs and Thighes, ſetting on Cupping-glaſſes, ſcarifying, applying Pigeons to the Feet or opening Veins in the Feet, if a <hi>deli<g ref="char:EOLhyphen"/>rium</hi> be inſtant; to ſpeak particularly of theſe, and to an<g ref="char:EOLhyphen"/>ſwer all doubts and objections, which may be raiſed, would require a Volume. There being as <note n="r" place="margin">Lib. 2. cap. 3.</note> 
+               <hi>Thomas Mina<g ref="char:EOLhyphen"/>dous</hi> calls them, an Ocean of difficulties, <hi>De ſanguis miſsione,</hi> ſaith he, <hi>de Phaenigmis, optime deus? quanta habita diſsentio eſt, de Curbitulis, de malleolorum ſcarrificatione, de hirudinibus, de ipſis interdum Frictionibus, De lavacris,</hi> &amp;c.</p>
+            <p>Concerning Diet and the government of the ſick, <hi>quo ad res non naturalis,</hi> ſome are of opinion, becauſe thoſe of the Northern Climates are the greateſt feeders, therefore meat and the cuſtome of feeding ought not to be prohibited in acute Diſeaſes. But reaſon and experience ſhew the con<g ref="char:EOLhyphen"/>trary, <hi>Victus tenuis</hi> is here by all means to be obſerved, and the more violent the Symptoms are, the more ſparing and ſlender the Diet. Nature having enough to doe in concoct<g ref="char:EOLhyphen"/>ing the peccant Morbiſicke matter, cannot with ſecu<g ref="char:EOLhyphen"/>rity be taken off, from that employment, to concoct meat alſo, and who ere ſhall adventure to give meat, will find, that he doth not ſo much nouriſh the Man, as the Diſeaſe. But for the moſt part, their ſtomacks nauſeate and
+<pb n="19" facs="tcp:123977:11"/>
+abhorre ſollid meats, therefore their chiefe nouriſhment conſiſts of broths, altered with the ſhavings of <hi>Harts-Horne,</hi> ſufficiently infuſed in the water, over Embers, then boyled with theſe or the like Rootes, and hearbs, as <hi>Succo<g ref="char:EOLhyphen"/>ry leaves,</hi> and <hi>Rootes, Perſly rootes, ſweet Fennell,</hi> and <hi>Aſpara<g ref="char:EOLhyphen"/>gus roots, Sorrell, Borrage, Bugloſse leaves and flowers,</hi> &amp;c. Broths in this or the like manner prepared, are as well Medica<g ref="char:EOLhyphen"/>ments, as nouriſhments. Sometimes for exchange they may be permitted, <hi>Watergruell, Pannado, Caudle, Mace-Ale,</hi> or the like.</p>
+            <p>They wrong the ſick very much doubtleſſe, who in the extremity of Heat, and drougth; altogether forbid Drink, ſuffering the very radicall moiſture to be dried, and con<g ref="char:EOLhyphen"/>ſumed by the preternaturall heat prevailing, therefore ſmall Beere, as they may not drink overmuch, ſo neither muſt it altogether be debarr'd them; but becauſe many times through negligence, it is cru'de and not well boyled, twere ſafer to take cleer Poſſet-drinke, with a ſmall quan<g ref="char:EOLhyphen"/>tity of ſugar added, or to make it more effectuall, boyle ſhavings of <hi>Harts-Horne</hi> in the <hi>Poſſet-Drinke,</hi> adding ſome few drops of the <hi>Spirits of Vitrioll</hi> withall to drinke ſometimes <hi>Harts-Horne decoction,</hi> and other <hi>Iuleps</hi> before mentioned, which quench the thirſt, reſiſt putrefaction and mitigate the violent heat of the Fever. I have heard di<g ref="char:EOLhyphen"/>verſe commend <hi>Vlmaria,</hi> or <hi>Made-ſweet,</hi> and attribute ſo much to it's virtue as the cure of this Diſeaſe, being boy<g ref="char:EOLhyphen"/>led in Broth, or Poſſet-drinke. I know no ſuch rare virtue it hath, yet I conceive it may conduce ſomewhat to thoſe who are troubled with the <hi>Diarrhaea,</hi> or <hi>ſlux</hi> in this Di<g ref="char:EOLhyphen"/>ſeaſe, being of a <hi>ſtyptick</hi> quality, as alſo <hi>cold,</hi> and <hi>dry.</hi>
+            </p>
+            <p>There is required a pure <hi>Aire,</hi> voyd of all noyſome, of<g ref="char:EOLhyphen"/>fenſive ſmells, and Temperate, as not cold, to cauſe a
+<pb n="20" facs="tcp:123977:12"/>
+conſtipation of the Pores, ſo not overhot, to encreaſe the Fever yet the patient muſt be ſufficiently covered with cloathes, to diſcuſſe, and breath forth Putrid Fuliginous vapours.</p>
+            <p>Sleep ſtrengthens the Spirits, encreaſeth the naturall heat, and concocts vitious, peccant humours. Therefore if hot vapours, by inflaming the Braine, attenuate, and di<g ref="char:EOLhyphen"/>ſperſe the Animall Spirits, and ſo conſequently cauſe con<g ref="char:EOLhyphen"/>tinuall waking, wee may warily uſe <hi>Medicines</hi> to fixe, quiet, and ſweetly compoſe the ſame ſpirits, and ſo procure ſleep. Such are <hi>Theriaca recens, Philonium, Requies Nicholai,</hi> &amp;c. and if need require <hi>Laudanum Paracelſi. Diacodion Fraca<g ref="char:EOLhyphen"/>ſtorij</hi> admixt, doth the like. Or the temples may bee an<g ref="char:EOLhyphen"/>nointed with <hi>Vnguentum Populeon, Oleum Violac. Nympheae, Nucis. Moſch. expreſs.</hi> and ſome few graines of <hi>Opium.</hi>
+            </p>
+            <p>Repoſe and quietneſſe is very requiſite, Motion and exer<g ref="char:EOLhyphen"/>ciſe diſſipates the naturall Heat, which ſhould be employ<g ref="char:EOLhyphen"/>ed in concocting the Morbifick matter: therefore <note n="ſ" place="margin">6. Epid. Com. 3. text. 31.</note> 
+               <hi>Hippo<g ref="char:EOLhyphen"/>crates</hi> juſtly reprehends <hi>Herodicus,</hi> for that he had kill'd ma<g ref="char:EOLhyphen"/>ny, by adviſing them, to ſtrive and uſe exerciſe in Fevers.</p>
+            <p>Many inconveniences, and ill ſymptomes follow from the Excrements overlong retained, therefore if the body be not otherwiſe anſwerable, every other day make uſe of a <hi>Glyſter,</hi> or <hi>Suppoſitory.</hi>
+            </p>
+            <p>Be Cheerefull and Pleaſant, as farre as the Diſeaſe will give leave, avoid all all ſad thoughts, and ſudden paſſions of the Mind, eſpecially <hi>Anger,</hi> which addes fire to that Heat, inflames the Bloud, and Spirits, and at length, ſets the whole Fabrick in Combuſtion.</p>
+            <p>
+               <note place="margin">The Preſer<g ref="char:EOLhyphen"/>vatives.</note> After the Remedies, I conceive it may prove very bene<g ref="char:EOLhyphen"/>ficiall, and worth labour, to ſet downe in briefe ſome <hi>Prae<g ref="char:EOLhyphen"/>ſervatives,</hi> for avoiding the Diſeaſe. The Common-ſouldi<g ref="char:EOLhyphen"/>ers
+<pb n="21" facs="tcp:123977:12"/>
+or poorer ſort, may take a Clove or two of Garlick in the Morning, which by <note n="t" place="margin">1. de diſtr. Febr. cap. 3.</note>
+               <hi>Galen</hi> himſelfe is called <hi>Ruſticorum Theriaca,</hi> and although it be no good food or nouriſhment, yet 'tis a good Medicament. Next they may drink Worm<g ref="char:EOLhyphen"/>wood Beere in the morning, which reſiſts putrefaction of humours, and keeps out infection, or they may eate with Butter ſome few leaves of <hi>Rue,</hi> or <hi>Sage,</hi> and when they ac<g ref="char:EOLhyphen"/>company their ſick fellow Souldiers, let them ſmell to <hi>Rue</hi> or <hi>Wormwood.</hi> Let them burne in the houſes where they are Quartered, <hi>Pitch, Refine, Frankincenſe, Iuniper wood,</hi> or flaſh a little <hi>Gunpowder.</hi> The Apothecary will afford the better ſort <hi>Ruffus his Pills,</hi> which are good, as againſt the Plague, ſo all malignant Diſeaſes, make halfe a dram into three Pills, and take them in the morning faſting. They conſiſt of theſe three things, <hi>Aloe,</hi> which ſtrengthens the Stomach, and Inteſtins, freeing them from vitious ill humours. <hi>Myrrhe,</hi> reſiſts putrefaction, <hi>Saffron,</hi> ſtrengthens the Vitalls. Of theſe three likewiſe conſiſts <hi>Elixir Proprietatis Paracelſi,</hi> only there is <hi>Oyle of Sulphur</hi> added, which is alſo very well knowne, to reſiſt putrefaction. This is doubtleſſe an excel<g ref="char:EOLhyphen"/>lent Preſervative being taken ſix or ſeven drops, in ſome Bezoardick water, or in a little glaſſe of Sack, or White<g ref="char:EOLhyphen"/>wine. Thoſe which goe to the Sick, may doe well to put ſome <hi>Mithridate,</hi> or <hi>Venice-Treacle</hi> into their Noſtrills, to bite <hi>Zedoarie,</hi> or <hi>Angelico,</hi> and hold it in their Mouthes, or ſmell to <hi>Balls,</hi> or as they uſually call them <hi>Pomanders,</hi> made of <hi>Ladanum, Benzoin, Styrac, Calamit, Lignum Aloes, Rhodi<g ref="char:EOLhyphen"/>um,</hi> &amp;c. Let them burne in their Houſes, the wood, and ber<g ref="char:EOLhyphen"/>ries of <hi>Iuniper, Bayes, Amber, Myrrhe, Benzoin.</hi> Other pre<g ref="char:EOLhyphen"/>ſervatives I could here likewiſe put downe, but they are for the moſt part more Elaborate, Chymicall, and not to bee readily procured againſt this preſent occaſion. But the beſt
+<pb n="22" facs="tcp:123977:13"/>
+meanes of preſerving us, and thoſe which, (under God) we chiefly rely upon, are <hi>Medicamenta Alexipharmaca,</hi> Anti<g ref="char:EOLhyphen"/>dotes, and thoſe that doe (as we ſaid before) <hi>totâ ſubſtantiâ agere contra Morbos malignos,</hi> as <hi>Theriaca, Diaſcordium, Mi<g ref="char:EOLhyphen"/>thridatium,</hi> &amp;c. Thoſe being abſolutely the beſt Preſerva<g ref="char:EOLhyphen"/>tives againſt the Diſeaſe, which are the Remedies of it. <note n="u" place="margin">Cap. 16.</note>
+               <hi>Galeu</hi> himſelfe moſt excellently in his Book <hi>de Theriaca ad Piſonem</hi> approves and adviſeth this courſe. <hi>Sanus frequenter Alexipharmacis utatur, ut exteriùs occurrentibus injuriis, &amp; con<g ref="char:EOLhyphen"/>tagio corpus reſiſtat, &amp; ſi quando paſsum aliquid fuerit, ad fani<g ref="char:EOLhyphen"/>tatem facilè reducatur.</hi>
+            </p>
+            <p>Thus for the eaſe and benefit of others, have I deſcribed what things are neceſſarie and uſefull againſt this Epidemi<g ref="char:EOLhyphen"/>call Diſeaſe: and that I might conceale nothing materiall, I have deſcended even to the loweſt and meaneſt Directi<g ref="char:EOLhyphen"/>ons, which ſome perhaps would have permitted, as ſlight and triviall, but I account nothing minute and contemptible, which may conduce to the Life and Preſervati<g ref="char:EOLhyphen"/>on of MAN.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
